@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src
+END
+spatialchar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/spatialchar.cc
+END
+spatialPattern.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/spatialPattern.cc
+END
+sample
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/sample
+END
+spatial_analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/spatial_analysis.h
+END
+Q14.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/Q14.cc
+END
+temporalPatternTemplate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/temporalPatternTemplate.cc
+END
+op.cc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/op.cc
+END
+emage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/emage.cc
+END
+op.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/op.h
+END
+temporalPattern.cc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/temporalPattern.cc
+END
+temporalchar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/temporalchar.cc
+END
+message.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/message.pb.cc
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/main.cc
+END
+filter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/filter.cc
+END
+message.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/message.pb.h
+END
+aggregation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/aggregation.cc
+END
+temporal_analysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/temporal_analysis.h
+END
+grouping.cc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/UX-CoE-Team/!svn/ver/3958/trunk/EventShop/releases/releaseDec/EventshopOps/src/grouping.cc
+END

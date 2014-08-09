@@ -1,0 +1,37 @@
+#include "spatial_analysis.h"
+#include "temporal_analysis.h"
+
+#include <ctime>
+
+using namespace cv;
+
+int main()
+{
+	EmageIngestor ds12("C:\\Temp\\ds12_Visual-HurStorm");
+	int rows0 = 260;
+	int cols0 = 590;
+	Mat mask0(rows0 , cols0 , CV_8U);
+	for(int i = 0; i < rows0; ++i)
+	{
+		for(int j = 0; j < cols0; ++j)
+		{
+			if(j <= 590 && j> 0 && i<=260 && i> 0)
+				mask0.at<unsigned char>(i, j) = 255;
+			else
+				mask0.at<unsigned char>(i, j) = 0;
+		}
+	}
+	FilterCondition fcond0(mask0, LT, -99999999, 99999999, 0, 9223372036854775807, true, 0, 100);
+	Filter q14(ds12, fcond0);
+
+	while(true)
+	{
+		while(q14.has_next())
+		{
+			Emage e = q14.next();
+			create_output(e, "C:\\Program Files (x86)\\Apache Software Foundation\\Tomcat 7.0\\webapps\\eventshop\\results\\q14_filter");
+		}
+		Sleep(100);
+	}
+	return 0;
+}
